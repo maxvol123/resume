@@ -1,0 +1,110 @@
+body{
+	background-color: black;
+}
+.container{
+	color: #fff;
+	padding-left: 2%;
+	padding-bottom: 3%;
+}
+.header {
+}
+.header__title {
+	margin-top: 44px;
+	font-size: 64px;
+}
+.header__text {
+	margin-top: 37px;
+	font-size: 35px;
+}
+.header__foto {
+	background: no-repeat;
+	margin-left: 70%;
+	margin-top: -200px;
+}
+.header__icons {
+}
+.icons__inst {
+}
+.icons__telegram {
+}
+.icons__github {
+}
+/* ///////////////////////////////////////////// */
+.main {
+	font-size: 35px;
+}
+.main__text {
+	margin-top: -130px;
+	padding-right: 850px;
+}
+.main__technology {
+	margin-top: 45px;
+}
+
+.technology__title {
+	margin-top: 30px;
+}
+.technology__text {
+	margin-left: 150px;
+	margin-top: -35px;
+}
+.technology__html {
+}
+.technology__css {
+}
+.technology__js {
+}
+
+
+
+
+.lenguage {
+margin-top: 30px;
+}
+.lengauge__title {
+	margin-left: 40%;
+}
+.lenguage__lenguage {
+	margin-top: 35px;
+}
+.lenguage_english {
+}
+.leguage__UK {
+}
+.lenguage__title {
+	margin-top: 25px;
+}
+.lenguage__level {
+	margin-left: 15%;
+	margin-top: -30px;
+}
+.english__gradient {
+	width: 50%;
+	height: 40px;
+	background: linear-gradient(90deg, #00F0FF 50%, rgba(0, 240, 255, 0) 70.05%);
+	border-radius: 131px;
+	margin-left: 30%;
+	margin-top: -35px;
+	animation-name: example;
+	animation-duration: 4s;
+}
+.UK__gradient {
+	width: 50%;
+	height: 40px;
+	background: linear-gradient(90deg, #00F0FF 50%, rgba(0, 240, 255, 0) 103.15%);
+	border-radius: 131px;
+	margin-left: 30%;
+	margin-top: -35px;
+	animation-name: example;
+	animation-duration: 4s;
+}
+@keyframes example {
+	0% {
+		width: 1%;
+	}
+
+	100% {
+		width: 50%;
+	}
+}
+
